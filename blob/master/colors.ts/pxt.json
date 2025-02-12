@@ -1,0 +1,24 @@
+{
+    "name": "3d-blob-master-colorsts",
+    "dependencies": {
+        "device": "*",
+        "pxt-3d": "github:goonkzadddy/pxt-3d"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.58",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
